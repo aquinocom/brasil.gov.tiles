@@ -36,7 +36,7 @@
             <li tal:condition="view/twitter_available"><a title="Twitter" href="#" i18n:attributes="title" i18n:translate="">Twitter</a></li>
             <li><a title="Flickr" href="#">Flickr</a></li>
         </ul>
-        https://www.flickr.com/photos/justicagovbr/player
+
     </div>
     <div class="social-panes css-panes">
         <div class="facebook-content pane" tal:condition="view/facebook_available">
